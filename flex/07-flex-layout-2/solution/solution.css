@@ -86,3 +86,7 @@ a {
   align-items: center;
   justify-content: center;
 }
+li {
+  margin-bottom: 16px;
+}
+
